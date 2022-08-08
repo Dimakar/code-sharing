@@ -1,0 +1,13 @@
+#code_snippet {
+    border-style: groove;
+    width: 100vw;
+}
+#load_date {
+    color: green;
+}
+#views_restriction {
+    text-decoration: underline;
+}
+#time_restriction {
+    text-decoration: underline;
+}
